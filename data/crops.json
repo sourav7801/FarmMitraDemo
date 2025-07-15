@@ -1,0 +1,7 @@
+[
+  {"cropName": "Wheat", "state": "UP", "qty": "1000 kg", "price": "₹18/kg", "availability": "Now"},
+  {"cropName": "Rice", "state": "Punjab", "qty": "800 kg", "price": "₹22/kg", "availability": "Aug 2025"},
+  {"cropName": "Maize", "state": "Bihar", "qty": "1500 kg", "price": "₹16/kg", "availability": "Now"},
+  {"cropName": "Sugarcane", "state": "Maharashtra", "qty": "2000 kg", "price": "₹5/kg", "availability": "Sept 2025"},
+  {"cropName": "Soybean", "state": "MP", "qty": "1200 kg", "price": "₹45/kg", "availability": "Now"}
+]
